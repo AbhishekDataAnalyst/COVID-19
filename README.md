@@ -12,7 +12,7 @@ Lets talk about the dataset:-
 - Please further divide training and validation set at a ratio of 4:1.  
 
 ## Objectives
-The objective of this project is to build a machine-learning model that accurately predicts the chance of a person catching COVID-19 based on their biometric information.
+The objective of this project is to build a machine-learning model that accurately predicts the chance of a person catching COVID-19 based on their biometric information. Accurate prediction can enable early intervention and reduce the burden on healthcare systems. Predictive models contribute to proactive management of public health crises.
 
 ## Dataset
 A. Basic information: 

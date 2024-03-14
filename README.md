@@ -10,3 +10,6 @@ Lets talk about the dataset:-
 - Outcome variable is covid result test positive or negative.
 - We have data from 11th March 2020 till 30th April 2020. Please consider 11th March till 15th April as a training and validation set. From 16th April till 30th April as a test set.
 - Please further divide training and validation set at a ratio of 4:1.  
+
+## Objectives
+The objective of this project is to build a machine-learning model that accurately predicts the chance of a person catching COVID-19 based on their biometric information.

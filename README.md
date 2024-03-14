@@ -16,22 +16,22 @@ The objective of this project is to build a machine-learning model that accurate
 
 ## Dataset
 A. Basic information: 
-1. ID (Individual ID)
-2. Sex (male/female). 
-3. Age ≥60 above years (true/false) 
-4. Test date (date when tested for COVID)
+- ID (Individual ID)
+- Sex (male/female). 
+- Age ≥60 above years (true/false) 
+- Test date (date when tested for COVID)
 
 B. Symptoms: 
-5. Cough (true/false).
-6. Fever (true/false). 
-7. Sore throat (true/false). 
-8. Shortness of breath (true/false). 
-9. Headache (true/false).    
+- Cough (true/false).
+- Fever (true/false). 
+- Sore throat (true/false). 
+- Shortness of breath (true/false). 
+- Headache (true/false).    
 
 C. Other information: 
-10. Known contact with an individual confirmed to have COVID-19 (true/false).
+- Known contact with an individual confirmed to have COVID-19 (true/false).
 
 D. Covid report
-11. Corona positive or negative
+- Corona positive or negative
 
 ## Steps taken to implement the project

@@ -13,3 +13,25 @@ Lets talk about the dataset:-
 
 ## Objectives
 The objective of this project is to build a machine-learning model that accurately predicts the chance of a person catching COVID-19 based on their biometric information.
+
+## Dataset
+A. Basic information: 
+1. ID (Individual ID)
+2. Sex (male/female). 
+3. Age ≥60 above years (true/false) 
+4. Test date (date when tested for COVID)
+
+B. Symptoms: 
+5. Cough (true/false).
+6. Fever (true/false). 
+7. Sore throat (true/false). 
+8. Shortness of breath (true/false). 
+9. Headache (true/false).    
+
+C. Other information: 
+10. Known contact with an individual confirmed to have COVID-19 (true/false).
+
+D. Covid report
+11. Corona positive or negative
+
+## Steps taken to implement the project
